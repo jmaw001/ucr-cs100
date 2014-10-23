@@ -1,2 +1,2 @@
 70 / 100
-multi command -20 ( ls -al;ls -al not working), exit -r  and ls -l;exit are not working -20, checksystemcall.sh detect -5 points, extra +5
+multi command -20 ( ls -al;ls -al not working), exit -r  and ls -l;exit are not working -20, minor systemcall misuse -5 points, extra +5

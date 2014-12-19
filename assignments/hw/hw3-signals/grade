@@ -1,3 +1,5 @@
-25 / 100
-checksyscall -30 part1 0 part2 30 part3 25 
-part1: execvp use 
+50 / 100
+checksyscall -30 part1 0 part2 30 part3 25
+part1: execvp use
+
+regraded
